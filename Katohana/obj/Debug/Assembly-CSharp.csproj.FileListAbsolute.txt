@@ -1,0 +1,2 @@
+C:\Users\vrsetup\Desktop\Powerwall-g1\group1-master\group1-master\Katohana\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+C:\Users\vrsetup\Desktop\Powerwall-g1\group1-master\group1-master\Katohana\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache

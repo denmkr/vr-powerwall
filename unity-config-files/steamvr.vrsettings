@@ -1,0 +1,41 @@
+{
+   "DesktopUI" : {
+      "pairing" : "568,331,800,600,0"
+   },
+   "DismissedWarnings" : {
+      "DismissableWarning_MultiRefreshRatePrompt" : true
+   },
+   "GpuSpeed" : {
+      "gpuSpeed0" : 915,
+      "gpuSpeed1" : 938,
+      "gpuSpeedCount" : 2,
+      "gpuSpeedDriver" : "26.21.14.3039",
+      "gpuSpeedHorsepower" : 926,
+      "gpuSpeedRenderTargetScale" : 1.5,
+      "gpuSpeedVendor" : "NVIDIA GeForce GTX 1080 Ti",
+      "gpuSpeedVersion" : 2
+   },
+   "LastKnown" : {
+      "HMDManufacturer" : "HTC",
+      "HMDModel" : "Null Model Number"
+   },
+   "audio" : {
+      "lastHmdPlaybackDeviceId_Valve_Index" : "{0.0.0.00000000}.{4291992a-4fc1-495b-9213-35aced4d0c2b}"
+   },
+   "camera" : {
+      "enableCameraForRoomView" : true
+   },
+   "driver_lighthouse" : {
+      "PowerManagedBaseStations2" : "LHB-D835D16D:BS2:1,LHB-EAE07504:BS2:1"
+   },
+   "keyboard" : {
+      "TutorialCompletions" : 1
+   },
+   "steamvr" : {
+      "activateMultipleDrivers" : true,
+      "installID" : "7267611835759878889",
+      "lastVersionNotice" : "1.8.21",
+      "lastVersionNoticeDate" : "1574372826",
+      "supersampleScale" : 1.5
+   }
+}
