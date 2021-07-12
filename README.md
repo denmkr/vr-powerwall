@@ -1,6 +1,6 @@
 # Katohana - Powerwall Interaction with VR Controllers
 
-Katohana includes a Windows OS desktop view to show different HTC Vive Controller actions. It includes two main apps: Settings and Paint. 
+Katohana is a Windows OS desktop app to demonstrate intercation with a Powerwall using HTC Vive Controller actions. It includes two small apps: Settings and Paint.
 
 ## Usage
 
